@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    justify-content: center;
+    box-sizing: border-box;
+}
+.maincontainer{max-width: 100%; padding: 0; margin:0;}
+.wrap{max-width: 1024px; margin: 0 auto; padding: 0;}
+
+.hero_section{ background-color: #f2f2f2;}
+.about_head{text-align: center;}
+.project_main{background-color: #f2f2f2; padding: 30px 0 0 0;}
+
+@keyframes ping {
+    75%, 100% {
+      transform: scale(2);
+      opacity: 0;
+    }
+  }
+  
